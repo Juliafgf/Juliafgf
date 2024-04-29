@@ -1,6 +1,6 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Julia Ferreira
+ Hi! Julia Ferreira here ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 ---
-*A good front-end traveling developer, studying to be full-stack soon!😉*
+*A good front-end developer, studying to be full-stack soon!😉*
 
 
 <div>
